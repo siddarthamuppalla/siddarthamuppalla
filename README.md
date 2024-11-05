@@ -4,7 +4,7 @@
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=java,spring,python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql )
+![My Skills](https://skillicons.dev/icons?i=java,spring,go,python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=html,css) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql )
 
 
 ![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,git,postman)
